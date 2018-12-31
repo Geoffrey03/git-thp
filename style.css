@@ -1,0 +1,79 @@
+body 
+{
+	margin: 40px auto;
+	max-width: 650px;
+	line-height: 1.6;
+	font-size: 18px
+	color: #444;
+	padding: 0 10px;
+	padding-bottom: 17px;
+}
+
+h1, h2, h3
+{
+	line-height: 1.2125;
+}
+
+p 
+{
+	line-height: 1.6;
+}
+
+ul
+{
+	line-height: 1.6;
+}
+
+h1, h2, h3, p
+{
+	font-family: sans serif; serif;
+}
+
+h1, h2, h3, p, ul, li, blockquote, aside
+{
+	color: #444444
+}
+
+h1
+{
+	font-size: 2.25em;
+}
+
+h2
+{
+	font-size: 1.6875em;
+}
+
+h3
+{
+	font-size: 1.315em;
+}
+
+em
+{
+	font-style: italic;
+	font-size: 1em
+}
+
+strong
+{
+	font-style: bold;
+	font-size: 1em
+}
+
+code
+{
+	font-size: 1.23em
+}
+
+p, aside, blockquote, ul
+{
+	font-size: 1.125em;
+}
+
+li
+{
+	font-size: 1em;
+}
+
+background-color: #EEEEEE;
